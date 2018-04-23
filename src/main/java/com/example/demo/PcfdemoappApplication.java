@@ -35,7 +35,7 @@ public class PcfdemoappApplication {
 				"MNMMMMNMMMMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMNMMMMMMMNMMMMMMMMMMMNNMMMMMNMMMMMMMMMNMMMMNM\n"
 				+"Current app version = " + app_ver
 				+"\r\n"
-				+"Current java version = " + java_ver
+				//+"Current java version = " + java_ver
 				+"\r\n"
 				+"App index = " + app_index
 				+"\r\n"
