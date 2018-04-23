@@ -12,7 +12,7 @@ resources:
       api: api.sys.pcflab.jp
       username: student-6
       password: P3n2KUgk
-      organization: handson-6
+      organization: handson-student-6
       space: development
       skip_cert_check: true
 jobs:
